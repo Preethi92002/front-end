@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Preethi92002/front-end.git/static/css/main.7f79f070.css",
+    "main.js": "/Preethi92002/front-end.git/static/js/main.faec2c26.js",
+    "static/js/787.26abb347.chunk.js": "/Preethi92002/front-end.git/static/js/787.26abb347.chunk.js",
+    "static/media/bg-img.jpeg": "/Preethi92002/front-end.git/static/media/bg-img.61529f60ddd666e809e8.jpeg",
+    "static/media/quote-image-girl.png": "/Preethi92002/front-end.git/static/media/quote-image-girl.c023e606b795fd9d8f27.png",
+    "static/media/rgm-logo.jpg": "/Preethi92002/front-end.git/static/media/rgm-logo.a4352d7a4ad7df6a2d27.jpg",
+    "static/media/papertopixel.png": "/Preethi92002/front-end.git/static/media/papertopixel.683710b1568623d8eeb6.png",
+    "static/media/boy-contact.png": "/Preethi92002/front-end.git/static/media/boy-contact.47c254f86e229e167f9d.png",
+    "static/media/bulb1.png": "/Preethi92002/front-end.git/static/media/bulb1.b06856358dc25d38a605.png",
+    "static/media/lib.jpg": "/Preethi92002/front-end.git/static/media/lib.ab1ddd528bc4919886eb.jpg",
+    "static/media/connect-icon.png": "/Preethi92002/front-end.git/static/media/connect-icon.87cf3af6e75f6d33c966.png",
+    "static/media/mat-logofinal.png": "/Preethi92002/front-end.git/static/media/mat-logofinal.c655b51f78d07015a6f1.png",
+    "static/media/ref.png": "/Preethi92002/front-end.git/static/media/ref.5b1c0ee9beb1f457dd72.png",
+    "static/media/query-1.png": "/Preethi92002/front-end.git/static/media/query-1.e40e6910153048b36184.png",
+    "static/media/pdf-icon.png": "/Preethi92002/front-end.git/static/media/pdf-icon.4360a711cab21a8e72b1.png",
+    "index.html": "/Preethi92002/front-end.git/index.html",
+    "main.7f79f070.css.map": "/Preethi92002/front-end.git/static/css/main.7f79f070.css.map",
+    "main.faec2c26.js.map": "/Preethi92002/front-end.git/static/js/main.faec2c26.js.map",
+    "787.26abb347.chunk.js.map": "/Preethi92002/front-end.git/static/js/787.26abb347.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f79f070.css",
+    "static/js/main.faec2c26.js"
+  ]
+}
